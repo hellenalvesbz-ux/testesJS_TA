@@ -1,5 +1,5 @@
 // file.kt
-function println() {
+function println(par) {
     console.log("Hello, World! ")
 }
 println()
